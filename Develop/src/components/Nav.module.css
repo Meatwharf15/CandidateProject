@@ -1,0 +1,14 @@
+.navbar {
+    width: 100px;
+    height: 50px;
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px
+}
+
+.logo-container span {
+    font-weight: 500;
+    cursor: pointer;
+}
